@@ -1,0 +1,207 @@
+disease_code,disease_name
+"UMLS:C0020538_hypertensive
+  disease",hypertensive disease
+UMLS:C0011847_diabetes,diabetes
+"UMLS:C0011570_depression
+  mental^UMLS:C0011581_depressive disorder",depressive disorder
+"UMLS:C0010054_coronary
+  arteriosclerosis^UMLS:C0010068_coronary heart disease",coronary heart disease
+UMLS:C0032285_pneumonia,pneumonia
+"UMLS:C0018802_failure
+  heart congestive",failure heart congestive
+"UMLS:C0038454_accident
+  cerebrovascular",accident cerebrovascular
+UMLS:C0004096_asthma,asthma
+"UMLS:C0027051_myocardial
+  infarction",myocardial infarction
+UMLS:C0020443_hypercholesterolemia,hypercholesterolemia
+UMLS:C0021311_infection,infection
+"UMLS:C0042029_infection
+  urinary tract",infection urinary tract
+UMLS:C0002871_anemia,anemia
+"UMLS:C0024117_chronic
+  obstructive airway disease",chronic obstructive airway disease
+UMLS:C0497327_dementia,dementia
+"UMLS:C1565489_insufficiency
+  renal",insufficiency renal
+UMLS:C0009676_confusion,confusion
+"UMLS:C0029408_degenerative
+  polyarthritis",degenerative polyarthritis
+UMLS:C0020676_hypothyroidism,hypothyroidism
+"UMLS:C0700613_anxiety
+  state",anxiety state
+"UMLS:C0006826_malignant
+  neoplasms^UMLS:C1306459_primary malignant neoplasm",primary malignant neoplasm
+"UMLS:C0001175_acquired
+  immuno-deficiency
+  syndrome^UMLS:C0019682_HIV^UMLS:C0019693_hiv infections",hiv infections
+UMLS:C0007642_cellulitis,cellulitis
+"UMLS:C0017168_gastroesophageal
+  reflux disease",gastroesophageal reflux disease
+"UMLS:C0036690_septicemia^UMLS:C0243026_systemic
+  infection^UMLS:C1090821_sepsis (invertebrate)",sepsis (invertebrate)
+"UMLS:C0149871_deep
+  vein thrombosis",deep vein thrombosis
+UMLS:C0011175_dehydration,dehydration
+UMLS:C0027651_neoplasm,neoplasm
+"UMLS:C0034065_embolism
+  pulmonary",embolism pulmonary
+UMLS:C0014544_epilepsy,epilepsy
+UMLS:C0878544_cardiomyopathy,cardiomyopathy
+"UMLS:C0022661_chronic
+  kidney failure",chronic kidney failure
+UMLS:C0007097_carcinoma,carcinoma
+"UMLS:C0019196_hepatitis
+  C",hepatitis C
+"UMLS:C0085096_peripheral
+  vascular disease",peripheral vascular disease
+"UMLS:C0033975_psychotic
+  disorder",psychotic disorder
+UMLS:C0020473_hyperlipidemia,hyperlipidemia
+"UMLS:C0005586_bipolar
+  disorder",bipolar disorder
+UMLS:C0028754_obesity,obesity
+UMLS:C0022116_ischemia,ischemia
+UMLS:C1623038_cirrhosis,cirrhosis
+UMLS:C0015230_exanthema,exanthema
+"UMLS:C0005001_benign
+  prostatic hypertrophy",benign prostatic hypertrophy
+"UMLS:C0022660_kidney
+  failure acute",kidney failure acute
+"UMLS:C0026266_mitral
+  valve insufficiency",mitral valve insufficiency
+UMLS:C0003864_arthritis,arthritis
+UMLS:C0006277_bronchitis,bronchitis
+UMLS:C0018989_hemiparesis,hemiparesis
+UMLS:C0029456_osteoporosis,osteoporosis
+"UMLS:C0007787_transient
+  ischemic attack",transient ischemic attack
+UMLS:C0001418_adenocarcinoma,adenocarcinoma
+UMLS:C1456784_paranoia,paranoia
+UMLS:C0030305_pancreatitis,pancreatitis
+UMLS:C0021167_incontinence,incontinence
+"UMLS:C0013405_paroxysmal
+  dyspnea",paroxysmal dyspnea
+UMLS:C0019270_hernia,hernia
+"UMLS:C0376358_malignant
+  neoplasm of prostate^UMLS:C0600139_carcinoma prostate",carcinoma prostate
+"UMLS:C0034063_edema
+  pulmonary",edema pulmonary
+"UMLS:C0024228_lymphatic
+  diseases",lymphatic diseases
+"UMLS:C0003507_stenosis
+  aortic valve",stenosis aortic valve
+"UMLS:C0006142_malignant
+  neoplasm of breast^UMLS:C0678222_carcinoma breast",carcinoma breast
+UMLS:C0036341_schizophrenia,schizophrenia
+UMLS:C0012813_diverticulitis,diverticulitis
+"UMLS:C0546817_overload
+  fluid",overload fluid
+"UMLS:C0030920_ulcer
+  peptic",ulcer peptic
+UMLS:C0029443_osteomyelitis,osteomyelitis
+UMLS:C0017152_gastritis,gastritis
+UMLS:C0004610_bacteremia,bacteremia
+"UMLS:C0035078_failure
+  kidney",failure kidney
+"UMLS:C0002895_sickle
+  cell anemia",sickle cell anemia
+"UMLS:C0018801_failure
+  heart",failure heart
+"UMLS:C0041912_upper
+  respiratory infection",upper respiratory infection
+UMLS:C0019158_hepatitis,hepatitis
+"UMLS:C0020542_hypertension
+  pulmonary",hypertension pulmonary
+"UMLS:C0011168_deglutition
+  disorder",deglutition disorder
+UMLS:C0018099_gout,gout
+UMLS:C0040034_thrombocytopaenia,thrombocytopaenia
+UMLS:C0020615_hypoglycemia,hypoglycemia
+"UMLS:C0032290_pneumonia
+  aspiration",pneumonia aspiration
+UMLS:C0009319_colitis,colitis
+UMLS:C1510475_diverticulosis,diverticulosis
+"UMLS:C0038663_suicide
+  attempt",suicide attempt
+"UMLS:C0032305_Pneumocystis
+  carinii pneumonia",Pneumocystis carinii pneumonia
+"UMLS:C0019163_hepatitis
+  B",hepatitis B
+"UMLS:C0030567_parkinson
+  disease",parkinson disease
+UMLS:C0024299_lymphoma,lymphoma
+UMLS:C0020456_hyperglycemia,hyperglycemia
+UMLS:C0085584_encephalopathy,encephalopathy
+"UMLS:C0040961_tricuspid
+  valve insufficiency",tricuspid valve insufficiency
+"UMLS:C0002395_Alzheimer's
+  disease",Alzheimer's disease
+"UMLS:C0006840_candidiasis^UMLS:C0006849_oral
+  candidiasis",oral candidiasis
+UMLS:C0442874_neuropathy,neuropathy
+"UMLS:C0022658_kidney
+  disease",kidney disease
+"UMLS:C0023267_fibroid
+  tumor",fibroid tumor
+UMLS:C0017601_glaucoma,glaucoma
+"UMLS:C0027627_neoplasm
+  metastasis",neoplasm metastasis
+"UMLS:C0007102_malignant
+  tumor of colon^UMLS:C0699790_carcinoma colon",carcinoma colon
+"UMLS:C0011880_ketoacidosis
+  diabetic",ketoacidosis diabetic
+"UMLS:C0014549_tonic-clonic
+  epilepsy^UMLS:C0494475_tonic-clonic seizures",tonic-clonic seizures
+"UMLS:C0006826_malignant
+  neoplasms",malignant neoplasms
+"UMLS:C1145670_respiratory
+  failure",respiratory failure
+UMLS:C0025202_melanoma,melanoma
+UMLS:C0017160_gastroenteritis,gastroenteritis
+"UMLS:C0242379_malignant
+  neoplasm of lung^UMLS:C0684249_carcinoma of lung",carcinoma of lung
+"UMLS:C0024713_manic
+  disorder",manic disorder
+"UMLS:C0031212_personality
+  disorder",personality disorder
+"UMLS:C0019204_primary
+  carcinoma of the liver cells",primary carcinoma of the liver cells
+"UMLS:C0034067_emphysema
+  pulmonary",emphysema pulmonary
+UMLS:C0019112_hemorrhoids,hemorrhoids
+"UMLS:C0006266_spasm
+  bronchial",spasm bronchial
+UMLS:C0003537_aphasia,aphasia
+"UMLS:C0028756_obesity
+  morbid",obesity morbid
+UMLS:C0034186_pyelonephritis,pyelonephritis
+UMLS:C0014118_endocarditis,endocarditis
+"UMLS:C0031039_effusion
+  pericardial^UMLS:C1253937_pericardial effusion body substance",pericardial effusion body substance
+"UMLS:C0001973_chronic
+  alcoholic intoxication",chronic alcoholic intoxication
+UMLS:C0032326_pneumothorax,pneumothorax
+UMLS:C0011206_delirium,delirium
+UMLS:C0027947_neutropenia,neutropenia
+UMLS:C0020433_hyperbilirubinemia,hyperbilirubinemia
+UMLS:C0021400_influenza,influenza
+UMLS:C0439857_dependence,dependence
+UMLS:C0087086_thrombus,thrombus
+UMLS:C0008325_cholecystitis,cholecystitis
+"UMLS:C0019291_hernia
+  hiatal",hernia hiatal
+"UMLS:C0149931_migraine
+  disorders",migraine disorders
+UMLS:C0030312_pancytopenia,pancytopenia
+"UMLS:C0008350_cholelithiasis^UMLS:C0242216_biliary
+  calculus",biliary calculus
+"UMLS:C0039239_tachycardia
+  sinus",tachycardia sinus
+UMLS:C1258215_ileus,ileus
+UMLS:C0001511_adhesion,adhesion
+UMLS:C0011253_delusion,delusion
+"UMLS:C0233472_affect
+  labile",affect labile
+"UMLS:C0011127_decubitus
+  ulcer",decubitus ulcer

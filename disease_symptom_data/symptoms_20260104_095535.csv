@@ -1,0 +1,486 @@
+symptom_code,symptom_name
+"UMLS:C0008031_pain
+  chest",pain chest
+"UMLS:C0392680_shortness
+  of breath",shortness of breath
+UMLS:C0012833_dizziness,dizziness
+UMLS:C0004093_asthenia,asthenia
+UMLS:C0085639_fall,fall
+UMLS:C0039070_syncope,syncope
+UMLS:C0042571_vertigo,vertigo
+"UMLS:C0038990_sweat^UMLS:C0700590_sweating
+  increased",sweating increased
+UMLS:C0030252_palpitation,palpitation
+UMLS:C0027497_nausea,nausea
+"UMLS:C0002962_angina
+  pectoris",angina pectoris
+"UMLS:C0438716_pressure
+  chest",pressure chest
+UMLS:C0032617_polyuria,polyuria
+UMLS:C0085602_polydypsia,polydypsia
+UMLS:C0085619_orthopnea,orthopnea
+UMLS:C0034642_rale,rale
+UMLS:C0241526_unresponsiveness,unresponsiveness
+"UMLS:C0856054_mental
+  status changes",mental status changes
+UMLS:C0042963_vomiting,vomiting
+UMLS:C0553668_labored breathing,labored breathing
+"UMLS:C0424000_feeling
+  suicidal",feeling suicidal
+UMLS:C0438696_suicidal,suicidal
+"UMLS:C0233762_hallucinations
+  auditory",hallucinations auditory
+"UMLS:C0150041_feeling
+  hopeless",feeling hopeless
+UMLS:C0424109_weepiness,weepiness
+UMLS:C0917801_sleeplessness,sleeplessness
+"UMLS:C0424230_motor
+  retardation",motor retardation
+"UMLS:C0022107_irritable
+  mood",irritable mood
+UMLS:C0312422_blackout,blackout
+"UMLS:C0344315_mood
+  depressed",mood depressed
+"UMLS:C0233763_hallucinations
+  visual",hallucinations visual
+UMLS:C0233481_worry,worry
+UMLS:C0085631_agitation,agitation
+UMLS:C0040822_tremor,tremor
+UMLS:C0728899_intoxication,intoxication
+"UMLS:C0424068_verbal
+  auditory hallucinations",verbal auditory hallucinations
+"UMLS:C0455769_energy
+  increased",energy increased
+UMLS:C1299586_difficulty,difficulty
+UMLS:C0028084_nightmare,nightmare
+"UMLS:C0235198_unable
+  to concentrate",unable to concentrate
+UMLS:C0237154_homelessness,homelessness
+UMLS:C0086439_hypokinesia,hypokinesia
+"UMLS:C0231807_dyspnea
+  on exertion",dyspnea on exertion
+"UMLS:C0232292_chest
+  tightness",chest tightness
+UMLS:C0010200_cough,cough
+UMLS:C0015967_fever,fever
+"UMLS:C0029053_decreased
+  translucency",decreased translucency
+"UMLS:C0239134_productive
+  cough",productive cough
+"UMLS:C0008033_pleuritic
+  pain",pleuritic pain
+"UMLS:C0457096_yellow
+  sputum",yellow sputum
+"UMLS:C0238844_breath
+  sounds decreased",breath sounds decreased
+UMLS:C0085593_chill,chill
+UMLS:C0035508_rhonchus,rhonchus
+"UMLS:C0457097_green
+  sputum",green sputum
+"UMLS:C0850149_non-productive
+  cough",non-productive cough
+UMLS:C0043144_wheezing,wheezing
+UMLS:C0019079_haemoptysis,haemoptysis
+"UMLS:C0476273_distress
+  respiratory",distress respiratory
+UMLS:C0231835_tachypnea,tachypnea
+UMLS:C0231218_malaise,malaise
+"UMLS:C0028081_night
+  sweat",night sweat
+"UMLS:C0240100_jugular
+  venous distention",jugular venous distention
+UMLS:C0013404_dyspnea,dyspnea
+UMLS:C0013362_dysarthria,dysarthria
+"UMLS:C0234518_speech
+  slurred",speech slurred
+"UMLS:C0427055_facial
+  paresis",facial paresis
+UMLS:C0018991_hemiplegia,hemiplegia
+UMLS:C0036572_seizure,seizure
+UMLS:C0028643_numbness,numbness
+"UMLS:C0436331_symptom
+  aggravating factors",symptom aggravating factors
+UMLS:C0008031_pain chest,pain chest
+UMLS:C0520886_st segment elevation,st segment elevation
+UMLS:C0038990_sweat^UMLS:C0700590_sweating increased,sweating increased
+UMLS:C0392680_shortness of breath,shortness of breath
+UMLS:C0520887_st segment depression,st segment depression
+UMLS:C0002962_angina pectoris,angina pectoris
+UMLS:C0438716_pressure chest,pressure chest
+UMLS:C0520888_t wave inverted,t wave inverted
+UMLS:C0232292_chest tightness,chest tightness
+UMLS:C1305739_presence of q wave,presence of q wave
+UMLS:C0235710_chest discomfort,chest discomfort
+UMLS:C0428977_bradycardia,bradycardia
+UMLS:C0030193_pain,pain
+UMLS:C0337672_nonsmoker,nonsmoker
+UMLS:C0041834_erythema,erythema
+UMLS:C0029053_decreased translucency,decreased translucency
+UMLS:C0019214_hepatosplenomegaly,hepatosplenomegaly
+UMLS:C0033774_pruritus,pruritus
+UMLS:C0011991_diarrhea,diarrhea
+UMLS:C0549483_abscess bacterial,abscess bacterial
+UMLS:C0038999_swelling,swelling
+UMLS:C0277797_apyrexial,apyrexial
+UMLS:C0013428_dysuria,dysuria
+UMLS:C0018965_hematuria,hematuria
+UMLS:C0235634_renal angle tenderness,renal angle tenderness
+UMLS:C0023380_lethargy,lethargy
+UMLS:C0020625_hyponatremia,hyponatremia
+UMLS:C0578150_hemodynamically stable,hemodynamically stable
+UMLS:C0476273_distress respiratory,distress respiratory
+UMLS:C0241705_difficulty passing urine,difficulty passing urine
+UMLS:C0856054_mental status changes,mental status changes
+UMLS:C0239110_consciousness clear,consciousness clear
+UMLS:C0744492_guaiac positive,guaiac positive
+UMLS:C0746619_monoclonal,monoclonal
+UMLS:C0013491_ecchymosis,ecchymosis
+UMLS:C1269955_tumor cell invasion,tumor cell invasion
+UMLS:C0019080_haemorrhage,haemorrhage
+UMLS:C0030232_pallor,pallor
+UMLS:C0015672_fatigue,fatigue
+UMLS:C0744740_heme positive,heme positive
+UMLS:C0004604_pain back,pain back
+UMLS:C0149746_orthostasis,orthostasis
+UMLS:C0003862_arthralgia,arthralgia
+UMLS:C1096646_transaminitis,transaminitis
+UMLS:C0241235_sputum purulent,sputum purulent
+UMLS:C0700292_hypoxemia,hypoxemia
+UMLS:C0020440_hypercapnia,hypercapnia
+UMLS:C0376405_patient non compliance,patient non compliance
+UMLS:C0041657_unconscious state,unconscious state
+UMLS:C0425251_bedridden^UMLS:C0741453_bedridden,bedridden
+UMLS:C0427055_facial paresis,facial paresis
+UMLS:C0232498_abdominal tenderness,abdominal tenderness
+UMLS:C1273573_unsteady gait,unsteady gait
+UMLS:C0233762_hallucinations auditory,hallucinations auditory
+UMLS:C0020461_hyperkalemia,hyperkalemia
+UMLS:C0085606_urgency of micturition,urgency of micturition
+UMLS:C0003962_ascites,ascites
+UMLS:C0020649_hypotension,hypotension
+UMLS:C0238844_breath sounds decreased,breath sounds decreased
+UMLS:C0014394_enuresis,enuresis
+UMLS:C0234518_speech slurred,speech slurred
+UMLS:C0232766_asterixis,asterixis
+UMLS:C0231530_muscle twitch,muscle twitch
+UMLS:C0234450_sleepy,sleepy
+UMLS:C0018681_headache,headache
+UMLS:C0220870_lightheadedness,lightheadedness
+"UMLS:C0149696_food
+  intolerance",food intolerance
+"UMLS:C0239832_numbness
+  of hand",numbness of hand
+"UMLS:C0858924_general
+  discomfort",general discomfort
+UMLS:C0013144_drowsiness,drowsiness
+UMLS:C0427008_stiffness,stiffness
+"UMLS:C1273573_unsteady
+  gait",unsteady gait
+UMLS:C0242453_prostatism,prostatism
+UMLS:C0013144_drowsiness^UMLS:C0234450_sleepy,sleepy
+UMLS:C0043094_weight gain,weight gain
+UMLS:C0015672_fatigue^UMLS:C0557875_tired,tired
+UMLS:C0424230_motor retardation,motor retardation
+UMLS:C0577559_mass of body structure,mass of body structure
+UMLS:C0424000_feeling suicidal,feeling suicidal
+UMLS:C0150041_feeling hopeless,feeling hopeless
+UMLS:C0022107_irritable mood,irritable mood
+UMLS:C0557075_has religious belief,has religious belief
+UMLS:C0027769_nervousness,nervousness
+UMLS:C0233763_hallucinations visual,hallucinations visual
+UMLS:C0016579_formication,formication
+UMLS:C0344315_mood depressed,mood depressed
+UMLS:C0600142_hot flush,hot flush
+UMLS:C0221198_lesion,lesion
+UMLS:C0332601_cushingoid facies^UMLS:C0878661_cushingoid habitus,cushingoid habitus
+UMLS:C0743482_emphysematous change,emphysematous change
+UMLS:C0043096_decreased body weight,decreased body weight
+UMLS:C0019825_hoarseness,hoarseness
+UMLS:C0205400_thicken,thicken
+UMLS:C0028081_night sweat,night sweat
+UMLS:C0233308_spontaneous rupture of membranes,spontaneous rupture of membranes
+UMLS:C0032739_,C0032739
+UMLS:C0008033_pleuritic pain,pleuritic pain
+UMLS:C0239134_productive cough,productive cough
+UMLS:C0026827_muscle hypotonia^UMLS:C0241938_hypotonic,hypotonic
+UMLS:C0332575_redness,redness
+UMLS:C0020580_hypesthesia,hypesthesia
+UMLS:C0034880_hyperacusis,hyperacusis
+UMLS:C1384489_scratch marks,scratch marks
+UMLS:C0234233_sore to touch,sore to touch
+UMLS:C0085624_burning sensation,burning sensation
+UMLS:C0239233_satiety early,satiety early
+UMLS:C1444773_throbbing sensation quality,throbbing sensation quality
+UMLS:C0234215_sensory discomfort,sensory discomfort
+UMLS:C0858924_general discomfort,general discomfort
+UMLS:C0009806_constipation,constipation
+UMLS:C0000737_pain abdominal,pain abdominal
+UMLS:C0018834_heartburn,heartburn
+UMLS:C0006157_breech presentation,breech presentation
+UMLS:C0010520_cyanosis,cyanosis
+UMLS:C0023222_pain in lower limb,pain in lower limb
+UMLS:C0018800_cardiomegaly,cardiomegaly
+UMLS:C0009024_clonus,clonus
+UMLS:C0850149_non-productive cough,non-productive cough
+UMLS:C0857256_unwell,unwell
+UMLS:C0003123_anorexia,anorexia
+"UMLS:C0039070_syncope^UMLS:C0312422_blackout^UMLS:C0424533_history
+  of - blackout",history of - blackout
+UMLS:C0003126_anosmia,anosmia
+UMLS:C1513183_metastatic lesion,metastatic lesion
+UMLS:C0149696_food intolerance,food intolerance
+UMLS:C0271202_hemianopsia homonymous,hemianopsia homonymous
+UMLS:C0744727_hematocrit decreased,hematocrit decreased
+UMLS:C0151315_neck stiffness,neck stiffness
+UMLS:C0457096_yellow sputum,yellow sputum
+UMLS:C0008767_cicatrisation,cicatrisation
+UMLS:C0347938_hypometabolism,hypometabolism
+UMLS:C0236018_aura,aura
+UMLS:C0027066_myoclonus,myoclonus
+UMLS:C0232517_gurgle,gurgle
+UMLS:C0558195_wheelchair bound,wheelchair bound
+UMLS:C0240100_jugular venous distention,jugular venous distention
+UMLS:C0231807_dyspnea on exertion,dyspnea on exertion
+UMLS:C0238705_left atrial hypertrophy,left atrial hypertrophy
+UMLS:C0028961_oliguria,oliguria
+UMLS:C0007398_catatonia,catatonia
+UMLS:C0847488_unhappy,unhappy
+UMLS:C0030554_paresthesia,paresthesia
+UMLS:C0232995_gravida 0,gravida 0
+UMLS:C0034079_lung nodule,lung nodule
+UMLS:C0000731_distended abdomen,distended abdomen
+UMLS:C0234238_ache,ache
+UMLS:C0558143_macerated skin,macerated skin
+UMLS:C0581912_heavy feeling,heavy feeling
+UMLS:C0234253_rest pain,rest pain
+UMLS:C0232201_sinus rhythm,sinus rhythm
+UMLS:C0424068_verbal auditory hallucinations,verbal auditory hallucinations
+UMLS:C0424092_withdraw,withdraw
+UMLS:C0455769_energy increased,energy increased
+UMLS:C0424295_behavior hyperactive,behavior hyperactive
+UMLS:C0558261_terrify,terrify
+UMLS:C0085635_photopsia,photopsia
+UMLS:C0392701_giddy mood,giddy mood
+UMLS:C0578859_disturbed family,disturbed family
+UMLS:C0917799_hypersomnia,hypersomnia
+UMLS:C0020458_hyperhidrosis disorder,hyperhidrosis disorder
+UMLS:C0026961_mydriasis,mydriasis
+UMLS:C0234133_extrapyramidal sign,extrapyramidal sign
+UMLS:C0240233_loose associations,loose associations
+UMLS:C0392674_exhaustion,exhaustion
+UMLS:C0037384_snore,snore
+UMLS:C0429091_r wave feature,r wave feature
+UMLS:C0497406_overweight,overweight
+UMLS:C0232257_systolic murmur,systolic murmur
+UMLS:C0231221_asymptomatic,asymptomatic
+UMLS:C0038002_splenomegaly,splenomegaly
+UMLS:C0151706_bleeding of vagina,bleeding of vagina
+UMLS:C0332573_macule,macule
+UMLS:C0085636_photophobia,photophobia
+UMLS:C0221150_painful swallowing,painful swallowing
+UMLS:C0006625_cachexia,cachexia
+UMLS:C0020598_hypocalcemia result,hypocalcemia result
+"UMLS:C0020672_hypothermia, natural","hypothermia, natural"
+UMLS:C0741302_atypia,atypia
+UMLS:C0427108_general unsteadiness,general unsteadiness
+UMLS:C0242429_throat sore,throat sore
+UMLS:C1260880_snuffle,snuffle
+UMLS:C0239133_hacking cough,hacking cough
+UMLS:C0038450_stridor,stridor
+UMLS:C0030552_paresis,paresis
+UMLS:C0221470_aphagia,aphagia
+UMLS:C0751495_focal seizures,focal seizures
+UMLS:C0423571_abnormal sensation,abnormal sensation
+UMLS:C0085628_stupor,stupor
+UMLS:C0231890_fremitus,fremitus
+UMLS:C0271276_Stahli's line,Stahli's line
+UMLS:C0677500_stinging sensation,stinging sensation
+UMLS:C0522224_paralyse,paralyse
+UMLS:C0019572_hirsutism,hirsutism
+UMLS:C0558361_sniffle,sniffle
+"UMLS:C0000731_distended
+  abdomen",distended abdomen
+UMLS:C0233565_bradykinesia,bradykinesia
+"UMLS:C0848168_out
+  of breath",out of breath
+"UMLS:C0150045_urge
+  incontinence",urge incontinence
+UMLS:C0344232_vision blurred,vision blurred
+UMLS:C0848277_room spinning,room spinning
+UMLS:C0423982_rambling speech,rambling speech
+UMLS:C0233844_clumsiness,clumsiness
+UMLS:C0278014_decreased stool caliber,decreased stool caliber
+UMLS:C0018932_hematochezia,hematochezia
+UMLS:C0231872_egophony,egophony
+UMLS:C0008767_cicatrisation^UMLS:C0241158_scar tissue,scar tissue
+UMLS:C0233647_neologism,neologism
+UMLS:C0231187_decompensation,decompensation
+UMLS:C0241252_stool color yellow,stool color yellow
+UMLS:C0424790_rigor - temperature-associated observation,rigor - temperature-associated observation
+UMLS:C0221166_paraparesis,paraparesis
+UMLS:C0150045_urge incontinence,urge incontinence
+UMLS:C0554980_moody,moody
+UMLS:C0877040_fear of falling,fear of falling
+UMLS:C0037763_spasm,spasm
+UMLS:C0020578_hyperventilation,hyperventilation
+UMLS:C0278141_excruciating pain,excruciating pain
+UMLS:C0016927_gag,gag
+UMLS:C0872410_posturing,posturing
+UMLS:C0277899_pulse absent,pulse absent
+UMLS:C0392699_dysesthesia,dysesthesia
+UMLS:C0521516_polymyalgia,polymyalgia
+UMLS:C0848621_passed stones,passed stones
+UMLS:C0151878_qt interval prolonged,qt interval prolonged
+UMLS:C0004134_ataxia,ataxia
+UMLS:C0018862_Heberden's node,Heberden's node
+UMLS:C0019209_hepatomegaly,hepatomegaly
+UMLS:C0036396_sciatica,sciatica
+UMLS:C0577979_frothy sputum,frothy sputum
+UMLS:C0024103_mass in breast,mass in breast
+UMLS:C0277845_retropulsion,retropulsion
+UMLS:C0239301_estrogen use,estrogen use
+UMLS:C0751229_hypersomnolence,hypersomnolence
+UMLS:C0041667_underweight^UMLS:C1319518_underweight,underweight
+UMLS:C0541911_dullness,dullness
+UMLS:C0857199_red blotches,red blotches
+UMLS:C0232488_colic abdominal,colic abdominal
+UMLS:C0020621_hypokalemia,hypokalemia
+UMLS:C0848168_out of breath,out of breath
+UMLS:C0020175_hunger,hunger
+UMLS:C0240813_prostate tender,prostate tender
+UMLS:C0016512_pain foot,pain foot
+UMLS:C0152032_urinary hesitation,urinary hesitation
+UMLS:C0281825_disequilibrium,disequilibrium
+UMLS:C0016382_flushing,flushing
+UMLS:C0085632_indifferent mood,indifferent mood
+UMLS:C1313921_urinoma,urinoma
+UMLS:C0239981_hypoalbuminemia,hypoalbuminemia
+UMLS:C0241157_pustule,pustule
+UMLS:C0232854_slowing of urinary stream,slowing of urinary stream
+UMLS:C0277794_extreme exhaustion,extreme exhaustion
+UMLS:C0442739_no status change,no status change
+UMLS:C1135120_breakthrough pain,breakthrough pain
+UMLS:C0457097_green sputum,green sputum
+UMLS:C0232258_pansystolic murmur,pansystolic murmur
+UMLS:C0694547_systolic ejection murmur,systolic ejection murmur
+UMLS:C0848340_stuffy nose,stuffy nose
+UMLS:C0234866_barking cough,barking cough
+UMLS:C0425488_rapid shallow breathing,rapid shallow breathing
+UMLS:C0237304_noisy respiration,noisy respiration
+UMLS:C0264273_nasal discharge present,nasal discharge present
+UMLS:C0871754_frail,frail
+UMLS:C1511606_cystic lesion,cystic lesion
+UMLS:C0436331_symptom aggravating factors,symptom aggravating factors
+UMLS:C0221151_projectile vomiting,projectile vomiting
+UMLS:C0581911_heavy legs,heavy legs
+UMLS:C0231690_titubation,titubation
+UMLS:C0234979_dysdiadochokinesia,dysdiadochokinesia
+UMLS:C1321756_achalasia,achalasia
+UMLS:C0748706_side pain,side pain
+UMLS:C0085702_monocytosis,monocytosis
+UMLS:C0032781_posterior rhinorrhea,posterior rhinorrhea
+UMLS:C0542044_incoherent,incoherent
+UMLS:C0311395_lameness^UMLS:C1456822_claudication,claudication
+UMLS:C0392162_clammy skin,clammy skin
+UMLS:C0264576_mediastinal shift,mediastinal shift
+UMLS:C0027498_nausea and vomiting,nausea and vomiting
+UMLS:C0541798_awakening early,awakening early
+UMLS:C0232726_tenesmus,tenesmus
+UMLS:C1167754_fecaluria,fecaluria
+UMLS:C0232894_pneumatouria,pneumatouria
+UMLS:C0235198_unable to concentrate,unable to concentrate
+UMLS:C0234544_todd paralysis,todd paralysis
+UMLS:C0740880_alcoholic withdrawal symptoms,alcoholic withdrawal symptoms
+UMLS:C0231528_myalgia,myalgia
+UMLS:C1384606_dyspareunia,dyspareunia
+UMLS:C0149758_poor dentition,poor dentition
+UMLS:C0857516_floppy,floppy
+UMLS:C0233467_inappropriate affect,inappropriate affect
+UMLS:C0576456_poor feeding,poor feeding
+UMLS:C0859032_moan,moan
+UMLS:C0221232_welt,welt
+UMLS:C0040264_tinnitus,tinnitus
+UMLS:C0020303_hydropneumothorax,hydropneumothorax
+UMLS:C0429562_superimposition,superimposition
+UMLS:C0235129_feeling strange,feeling strange
+UMLS:C0242143_uncoordination,uncoordination
+UMLS:C0424530_absences finding,absences finding
+UMLS:C0270844_tonic seizures,tonic seizures
+UMLS:C0742985_debilitation,debilitation
+UMLS:C0338656_impaired cognition,impaired cognition
+UMLS:C0013132_drool,drool
+UMLS:C0235231_pin-point pupils,pin-point pupils
+UMLS:C0234379_tremor resting,tremor resting
+UMLS:C0541992_groggy,groggy
+UMLS:C0559546_adverse reaction^UMLS:C0879626_adverse effect,adverse effect
+UMLS:C1291077_abdominal bloating,abdominal bloating
+UMLS:C0231230_fatigability,fatigability
+UMLS:C0233071_para 2,para 2
+UMLS:C0156543_abortion,abortion
+UMLS:C0232943_intermenstrual heavy bleeding,intermenstrual heavy bleeding
+UMLS:C0232997_previous pregnancies 2,previous pregnancies 2
+UMLS:C0860096_primigravida,primigravida
+"UMLS:C0702118_abnormally
+  hard consistency",abnormally hard consistency
+UMLS:C1405524_proteinemia,proteinemia
+"UMLS:C0041657_unconscious
+  state",unconscious state
+"UMLS:C0085624_burning
+  sensation",burning sensation
+UMLS:C0007859_pain neck,pain neck
+UMLS:C0857087_dizzy spells,dizzy spells
+UMLS:C0278146_shooting pain,shooting pain
+UMLS:C0235250_hyperemesis,hyperemesis
+UMLS:C0443260_milky,milky
+UMLS:C0232605_regurgitates after swallowing,regurgitates after swallowing
+UMLS:C0542073_lip smacking,lip smacking
+UMLS:C0751466_phonophobia,phonophobia
+UMLS:C0522336_rolling of eyes,rolling of eyes
+UMLS:C0002416_ambidexterity,ambidexterity
+UMLS:C0232118_pulsus paradoxus,pulsus paradoxus
+UMLS:C1291692_gravida 10,gravida 10
+UMLS:C0006318_bruit,bruit
+UMLS:C0476287_breath-holding spell,breath-holding spell
+UMLS:C0240962_scleral icterus,scleral icterus
+UMLS:C0232602_retch,retch
+UMLS:C0948786_blanch,blanch
+UMLS:C0233492_elation,elation
+UMLS:C0558089_verbally abusive behavior,verbally abusive behavior
+UMLS:C0558141_transsexual,transsexual
+UMLS:C0474395_behavior showing increased motor activity,behavior showing increased motor activity
+UMLS:C0241158_scar tissue,scar tissue
+UMLS:C0520966_coordination abnormal,coordination abnormal
+UMLS:C0008301_choke,choke
+UMLS:C0232695_bowel sounds decreased,bowel sounds decreased
+UMLS:C0239832_numbness of hand,numbness of hand
+UMLS:C0262581_no known drug allergies,no known drug allergies
+UMLS:C0024031_low back pain,low back pain
+UMLS:C0277823_charleyhorse,charleyhorse
+UMLS:C0205254_sedentary,sedentary
+UMLS:C0424749_feels hot/feverish,feels hot/feverish
+UMLS:C1517205_flare,flare
+UMLS:C0232267_pericardial friction rub,pericardial friction rub
+UMLS:C0424337_hoard,hoard
+UMLS:C0030318_panic,panic
+"UMLS:C0425560_cardiovascular
+  finding^UMLS:C1320716_cardiovascular event",cardiovascular event
+UMLS:C0037580_soft tissue swelling,soft tissue swelling
+UMLS:C0427629_rhd positive,rhd positive
+UMLS:C0233070_para 1,para 1
+UMLS:C0277873_nasal flaring,nasal flaring
+UMLS:C0037383_sneeze,sneeze
+UMLS:C0235396_hypertonicity,hypertonicity
+UMLS:C0277977_Murphy's sign,Murphy's sign
+UMLS:C0016204_flatulence,flatulence
+UMLS:C0425449_gasping for breath,gasping for breath
+UMLS:C0474505_feces in rectum,feces in rectum
+UMLS:C0702118_abnormally hard consistency,abnormally hard consistency
+UMLS:C0240805_prodrome,prodrome
+UMLS:C0020639_hypoproteinemia,hypoproteinemia
+UMLS:C0556346_alcohol binge episode,alcohol binge episode
+UMLS:C0000727_abdomen acute,abdomen acute
+UMLS:C0740844_air fluid level,air fluid level
+UMLS:C0425491_catching breath,catching breath
+UMLS:C0456091_large-for-dates fetus,large-for-dates fetus
+UMLS:C0231441_immobile,immobile
+UMLS:C0455204_homicidal thoughts,homicidal thoughts
